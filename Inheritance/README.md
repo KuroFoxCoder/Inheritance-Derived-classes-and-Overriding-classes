@@ -3,4 +3,4 @@ Here
 # Thought Process
 Here
 # Challenges
-In truth, inheritance wasn't that difficult to me. I think of it like generations, how one generation has a trait, and future generations build on it. Older generation objects can't do what new ones can, but new ones can do what the old generations can also do.
+In truth, inheritance wasn't that difficult to me. The code helped me learn what it looked like rather quickly, like how different roles have their own indentifying factors, such as a student ID for students, or a measurement of muscle mass for bodybuilders. Both would be the extension of the same class of Person.
