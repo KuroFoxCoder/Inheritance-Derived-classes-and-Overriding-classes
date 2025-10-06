@@ -1,16 +1,5 @@
-# Video
+# Project README Links:
 Inheritance
-Derived Classes
+Derived CLasses
 Overriding
-
-# Thought Processes
-Inheritance
-Derived Classes
-Overriding
-
-# Challenges
-Inheritance: 
-Derived Classes:
-Overriding:
-
 
